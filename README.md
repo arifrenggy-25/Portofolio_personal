@@ -1,6 +1,5 @@
 # 🌐 My Portfolio Website
 
-> 📚 Tugas mata kuliah *Pengenalan Web*  
 > Dibuat dengan semangat belajar dan kreativitas 💪
 
 ## 🛠️ Teknologi yang Digunakan
@@ -18,7 +17,7 @@ Tujuannya adalah untuk memahami struktur dasar halaman web, mulai dari elemen HT
 
 - Halaman profil sederhana  
 - Navigasi antar halaman  
-- Desain responsif tampilan PC dan tablet  
+- Desain responsif tampilan PC dan Mobile 
 - Tampilan bersih dan rapi
 
 ## 🚀 Live Demo
@@ -27,16 +26,11 @@ Tujuannya adalah untuk memahami struktur dasar halaman web, mulai dari elemen HT
 
 ## 📸 Screenshot
 
-### 🖥️ Tampilan Halaman Utama
-![Homepage](./img/home.png)
-
 ### 📱 Tampilan Versi Mobile
-![Mobile View](./img/mobile.png)
+![Mobile View](./img/mobile.jpg)
 
-### 📄 Tampilan Halaman Tentang
-![Tentang](./img/tentang.png)
-
-_(Ganti nama file dan tambahin screenshot lain sesuai kebutuhan ya bro)_
+### 📄 Tampilan Versi PC
+![PC View](./img/pc.jpg)
 
 ## 📁 Struktur Folder
 
